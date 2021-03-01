@@ -1,0 +1,34 @@
+R 1920 1080
+NO ./textures/east.xpm
+SO ./textures/east.xpm
+WE ./textures/east.xpm
+EA ./textures/east.xpm
+S ./textures/tonneau.xpm
+S1 ./textures/pillar.xpm
+S2 ./textures/shroom.xpm
+S3 ./textures/teemo.xpm
+A1 ./textures/heart1.xpm
+A1 ./textures/heart2.xpm
+A1 ./textures/heart3.xpm
+A1 ./textures/heart4.xpm
+A2 ./textures/antidote1.xpm
+A2 ./textures/antidote2.xpm
+A2 ./textures/antidote3.xpm
+A2 ./textures/antidote4.xpm
+F 66,30,27
+C 66,145,218
+
+
+        11111               111
+        10021       111111111a11111
+        14111       1a0000040000001
+        101         123030111111141
+11111111101111111111100400144000~0111
+10000200400040000040000000154000140a1
+12E00000~000002111111111~111111111111
+111111111011000040000400000a001113231
+     11110111111111011111111141110b01
+   11120000241    14111111111000000a1
+   1b~00040001    101111a111101111111
+   11103000301    100040000000b1
+     111111111    11111111111111
